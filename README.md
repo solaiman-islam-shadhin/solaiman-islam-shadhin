@@ -1,126 +1,115 @@
-<h1 align="center">Hi, I'm Solaiman Islam Shadhin 👋</h1>
+<h1 align="center">Hi, I'm Shadhin 👋</h1>
+
+<h3 align="center">Student · Full-Stack Developer · Competitive Programmer</h3>
 
 <p align="center">
-  CSE Student &nbsp;|&nbsp; Web & App Developer &nbsp;|&nbsp; NLP Researcher &nbsp;|&nbsp; Competitive Programmer
+  I build digital experiences where design meets engineering.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:solaimanislamshadhin123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://solaimanislamshadhin.vercel.app/">🌐 Portfolio</a> ·
+  <a href="https://parardokan.netlify.app/">🔗 Parar Dokan</a> ·
+  <a href="https://codeforces.com/profile/MD.SOLAIMAN_ISLAM">🏆 Codeforces</a> ·
+  <a href="https://www.codechef.com/users/solaiman_islam">🏆 CodeChef</a> ·
+  <a href="https://www.facebook.com/solaiman.i.shadhin">📘 Facebook</a>
 </p>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering student based in Dhaka, Bangladesh
-- 🧠 Working on research-level Natural Language Processing (NLP), including multilingual classification tasks
-- 💻 Building full-stack web and mobile app projects
-- 🧩 Competitive programmer on Codeforces and CodeChef
-- 🌱 Currently exploring coursework in operating systems, embedded systems, and machine learning
-- ⚽ When not coding, usually on a football pitch
+- 🎓 Currently pursuing a **BSc in Computer Science & Engineering** at Southeast University (2023 – 2027)
+- 🌱 Started with competitive programming, learning to think algorithmically and solve problems under pressure
+- 💻 That foundation pushed me toward building real products: full-stack web apps and cross-platform mobile apps
+- 🔭 Currently building **Parar Dokan**, a neighborhood commerce platform connecting customers with local shopkeepers
+- 🧠 Also doing research-level work in NLP, including multilingual classification
+- 📍 Based in Dhaka, Bangladesh
+- ⚡ Fun fact: I care about writing clean code and systems that actually feel intentional, not just functional
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-</p>
 
-**Web**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-</p>
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**App**
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
-</p>
+**Frontend**
 
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
+**Backend & Database**
 
-**NLP / ML**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-</p>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</p>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### Competitive Programming
+### 🚀 Featured Projects
 
-<p>
-  <a href="https://codeforces.com/profile/MD.SOLAIMAN_ISLAM" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/solaiman_islam" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
-  </a>
-</p>
+#### 🏪 [Parar Dokan](https://github.com/solaiman-islam-shadhin/parardokan-client)
+A neighborhood commerce platform connecting customers with nearby shopkeepers across Bangladesh. Features geospatial shop search with interactive maps, role-based customer/shopkeeper dashboards, Stripe & SSLCommerz payments, and a digital *baki* (credit) system.
+`React` `Vite` `TypeScript` `Tailwind` `DaisyUI` `Express` `MongoDB` `Firebase`
+🔗 [Live Demo](https://parardokan.netlify.app/)
 
----
+#### 🐾 [PawsHome](https://github.com/solaiman-islam-shadhin/PawsHome_Client-Side)
+A full MERN-stack pet adoption platform connecting pets with forever homes. Includes infinite-scroll pet browsing, Stripe-powered donation campaigns, and full user/admin dashboards.
+`React` `Node.js` `Express` `MongoDB` `Firebase` `Stripe`
+🔗 [Live Demo](https://petsite-9e5cd.web.app/)
 
-### Featured Projects
+#### 🍽️ [খানাপিনা (KhanaPina)](https://github.com/solaiman-islam-shadhin/khanapina_app_client)
+A Bengali-cuisine restaurant management and food ordering platform with food listings, order management, and bilingual (Bengali/English) support.
+`React` `Tailwind` `DaisyUI` `Framer Motion` `Firebase` `Node.js` `Express` `MongoDB`
+🔗 [Live Demo](https://khana-pina-cf84e.web.app/)
 
-<!--
-  Replace these with your best 4-6 real projects (not assignment repos).
-  Format: **[Repo Name](link)** — one-line description of what it does and the stack used.
--->
-
-- **[Project Name](https://github.com/solaiman-islam-shadhin/repo)** — Short description of what it does and the stack used.
-- **[Project Name](https://github.com/solaiman-islam-shadhin/repo)** — Short description of what it does and the stack used.
-- **[Project Name](https://github.com/solaiman-islam-shadhin/repo)** — Short description of what it does and the stack used.
+#### 📱 [UniSol](https://github.com/solaiman-islam-shadhin/unisol_app)
+A cross-platform university course solution app built with React Native and Expo, running on iOS, Android, and Web. Built collaboratively with a team of four.
+`React Native` `Expo` `TypeScript` `NativeWind`
+🔗 [Live Demo](https://university-course-solution.netlify.app/)
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=solaiman-islam-shadhin&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solaiman-islam-shadhin&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=solaiman-islam-shadhin&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solaiman-islam-shadhin&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solaiman-islam-shadhin&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solaiman-islam-shadhin&hide_border=true" />
 </p>
 
 ---
 
-<p align="center"><i>Open to collaborating on web/app projects, NLP research, and competitive programming — feel free to reach out!</i></p>
+### 📫 Reach Me
+
+<p align="left">
+  <a href="https://solaimanislamshadhin.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.facebook.com/solaiman.i.shadhin"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/MD.SOLAIMAN_ISLAM"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/solaiman_islam"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Build with purpose. Create with care.</i></p>
